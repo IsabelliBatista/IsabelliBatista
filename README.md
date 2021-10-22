@@ -1,5 +1,8 @@
 ### Hi 👋, Bem Vindo(a) por aqui!
 
+Prazer, sou a Isabelli e fique a vontade em visitar meu perfil. Sou estudante e aqui tem algumas coisinhas que faço. 
+Eu amo o Front e Designer, por isso faço um pouco dos dois, ainda estou aprendendo e super aceito sugestões, dicas..
+
 <!--
 **IsabelliBatista/IsabelliBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
